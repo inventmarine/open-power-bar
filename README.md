@@ -20,18 +20,18 @@ It was originally designed for use with Aquarium Controllers, like the Reefmate 
 7. SVGA breakout board: 
 8. Scres
 9. Flat cable
-10. 
+Aprox. cost: ??
 
 ### Build steps
 
 #### Install the firmware
-To be done
+> To be done
  
 #### Assembling
-To be done
+> To be done
 
 #### Running the software
-To be done
+> To be done
 
 ### Notice
 Playing with high voltage is dangerous and can kill or cause fires, becarefull and don't attempt it unless you know what you are doing. It is also illegal in some countries, like Australia and can void your home insurance.
