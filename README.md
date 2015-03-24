@@ -6,7 +6,7 @@ An Arduino/Firmata powered power bar, that can be controlled over serial (USB or
 
 Originally designed for use with Aquarium controllers, like the Reefmate from Invent Marine  and Reef Angel, it can also be used by anyone willing to controlle 220/110V power sockets.
 
-# Bill of materials
+### Bill of materials
 1. 8 relays board
 2. 1 Enclosure: $7
 3. 8 extension cables: $16
@@ -17,7 +17,7 @@ Originally designed for use with Aquarium controllers, like the Reefmate from In
 8. wires
 
 
-# Notice
+### Notice
 This device works and the authro have been using it and some variants for years. However, the project documentation has just been started. Stay tuned.
 
 
