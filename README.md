@@ -1,6 +1,10 @@
 # Open Source Power Bar
 
- This project works, but its documentation is under development 
+-------------
+ 
+ THIS PROJECT IS NOT READY, YET.
+ 
+--------
 
 A DIY Power Bar project, that requires no soldering, is easy to build and all parts are sourced on eBay or Aliexpress.
 
